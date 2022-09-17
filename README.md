@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<p align="center">
+  <h4>
+  Hi there 👋  
+</h4>
+</p>
   
 I'm faiza,a freelance (educational) video creator/editor YouTuber and 
 Developpeur web /front-end  developer ,  from algeria.
@@ -13,8 +18,11 @@ I spend far more time than I should on open-source software, and this is where y
   <a href="https://www.youtube.com/channel/UCkdqIQky4TaDh6PDbBFWOyw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-### Languages I've worked with
-
+<p align="center">
+  <h4>
+ Languages I've worked with 
+</h4>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
